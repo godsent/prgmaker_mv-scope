@@ -45,10 +45,6 @@ IRScope.applySuggestedScale = true; // according to the matrix below
 // and install it as a usual plugin ABOVE this plugin.
 IRScope.suggestedScales = [
     [
-        1800,
-        80
-    ],
-    [
         1600, // if device screen is larger than this number
         64    // this tile width and tile height will be applied to the game
     ],
